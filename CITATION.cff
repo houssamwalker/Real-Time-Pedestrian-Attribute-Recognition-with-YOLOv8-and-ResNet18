@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+//cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "EL MIR"
@@ -9,13 +9,14 @@ version: 2.0.4
 doi:10.5281/zenodo.20249400
 date-released: 2026-05-17
 url: "https://github.com/houssamwalker/Real-Time-Pedestrian-Attribute-Recognition-with-YOLOv8-and-ResNet18"
+//
 
-@software{Lisa_My_Research_Software_2017,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.5281/zenodo.1234},
-  month = {12},
-  title = {{My Research Software}},
-  url = {https://github.com/github-linguist/linguist},
-  version = {2.0.4},
-  year = {2017}
+@software{Real-Time-Pedestrian-Attribute-Recognition-with-YOLOv8-and-ResNet18,
+  author = {EL MIR, HOUSSAM},
+  doi = {10.5281/zenodo.20249400},
+  month = {05},
+  title = {{Real-Time-Pedestrian-Attribute-Recognition-with-YOLOv8-and-ResNet18}},
+  url = {https://github.com/houssamwalker/Real-Time-Pedestrian-Attribute-Recognition-with-YOLOv8-and-ResNet18},
+  version = {1.0},
+  year = {2026}
 }
