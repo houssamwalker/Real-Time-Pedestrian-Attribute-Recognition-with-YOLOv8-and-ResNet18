@@ -5,6 +5,7 @@ authors:
     given-names: "HOUSSAM"
     email: "houssamelmir2020@gmail.com"
     affiliation: "Zhejiang University of Technology"
+    orcid: "https://orcid.org/0009-0003-7060-2752"
 title: "Real Time Pedestrian Attribute Recognition with YOLOv8 and ResNet18"
 version: 1.0.0
 date-released: 2026-05-17
